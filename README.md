@@ -63,7 +63,7 @@ OPA SUITE
     ├── Logs
     └── Monitoramento
 ```
-#
+#Fluxo de Interação - Base
 ```text
 ┌─────────────────────────────┐
 │ CLIENTE ENVIA MENSAGEM      │
